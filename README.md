@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates deployment of MongoDB and Mongo Express on Kubernetes using:
+This project demonstrates deployment of MongoDB and Mongo Express on Kubernetes using :
 
 - Deployments
 - Services
